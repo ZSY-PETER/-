@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.20
+opencv-python>=4.7
+segmentation-models-pytorch>=0.5
